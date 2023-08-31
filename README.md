@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve math problems and read tech articles.
 
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
 
 </div>
----
+
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teodor-Todorov1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
