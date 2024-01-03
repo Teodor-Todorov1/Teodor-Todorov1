@@ -4,9 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
-<a href="your-gmail-URL">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+<a href="your-gmail-URL"> </a>
 </div>
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Teodor-Todorov1&style=flat-square&color=blue" alt=""/>
