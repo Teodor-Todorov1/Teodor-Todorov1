@@ -57,4 +57,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teodor-Todorov1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="center">GitHub Trophies:</h3>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Teodor-Todorov1&theme=matrix" alt="GitHub Trophies" /></p>
 
