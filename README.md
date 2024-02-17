@@ -59,5 +59,4 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <h3 align="center">GitHub Stats:</h3>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Teodor-Todorov1&theme=github-dark-blue" alt="GitHub Streak" /></a></p>
 
-<h3 align="center">Profile stats:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Teodor-Todorov1&show_icons=true&theme=synthwave" alt="Teodor-Todorv1 :: Profile Stats" /></p>
+
