@@ -19,7 +19,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
+I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Researcher from Bulgaria.
 - :seedling: Exploring Technical Content.
 
 - :zap: In my free time, I research and solve math problems.
