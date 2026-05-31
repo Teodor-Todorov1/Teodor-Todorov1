@@ -120,7 +120,6 @@ An online educational memory game (**Bulgarian/English**) with a timed leaderboa
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Teodor-Todorov1&theme=github_dark" alt="Most Used Languages" />
 <img height="165" src="https://streak-stats.demolab.com/?user=Teodor-Todorov1&theme=dark&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=A371F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A371F7&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
 </div>
